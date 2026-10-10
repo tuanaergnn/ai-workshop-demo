@@ -1,0 +1,6 @@
+{
+  "name": "KariyerKoç AI",
+  "description": "Yapay zeka destekli mülakat simülatörü, mülakatçı soru analizcisi ve kişiselleştirilmiş eğitim yol haritası koçu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
